@@ -1,4 +1,24 @@
 body {
     font-family: Helvetica, sans-serif;
+    color: #036b9b;
 }
 
+.card {
+    background-color: #ffeb92;
+    width: 500px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 12px;
+}
+
+.image {
+    border-radius: 20px;
+}
+
+a:link, a:visited {
+    color: #036b9b;
+}
+
+a:hover {
+    color: #6dc5ee;
+}
